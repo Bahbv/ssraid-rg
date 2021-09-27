@@ -1,0 +1,3 @@
+# Untrack secrets
+config.json
+*.session
